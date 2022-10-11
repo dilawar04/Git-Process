@@ -1,0 +1,14 @@
+Git commands
+
+1- create new repo
+2- name 
+3- click on create
+4- copy commands
+5- open folder location on CMD
+6- past commands and press enter
+
+7- check 'git status'
+8- git add "fileName"  / git add .
+9- git commit -m "your commit"
+
+10- git push
