@@ -12,3 +12,10 @@ Git commands
 9- git commit -m "your commit"
 
 10- git push
+
+
+when you work on other computer and updated the code
+
+then again on 1st computer use 
+
+11- git pull command
