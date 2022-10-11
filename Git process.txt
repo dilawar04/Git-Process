@@ -19,3 +19,5 @@ when you work on other computer and updated the code
 then again on 1st computer use 
 
 11- git pull command
+
+12 trying
